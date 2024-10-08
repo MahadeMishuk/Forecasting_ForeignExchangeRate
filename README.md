@@ -1,5 +1,7 @@
 # **Foreign Exchange Rate Prediction**
 Mahade Mishuk
+<img width="856" alt="Screenshot 2024-10-08 at 12 09 16 AM" src="https://github.com/user-attachments/assets/586c5e37-5c29-46c5-bcaa-8af5f5499272">
+
 
 **1. Introduction**
 
@@ -48,6 +50,7 @@ Ensemble Learning: Combining LSTM and Prophet models to leverage their respectiv
 Additional Features: Incorporating economic indicators such as interest rates, inflation, and stock indices could further enhance prediction performance.
 
 More Data: Using a larger dataset or different sources (e.g., including more currencies) could improve model robustness.
+<img width="1242" alt="Screenshot 2024-10-08 at 12 09 38 AM" src="https://github.com/user-attachments/assets/2623d257-96eb-43ed-84ea-583177eb0c30">
 
 **9. References**
 
