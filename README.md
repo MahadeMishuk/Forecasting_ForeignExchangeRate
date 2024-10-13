@@ -1,6 +1,10 @@
 # **Forecasting of Foreign Exchange Rate (USD/x)**
 Mahade Mishuk
-<img width="856" alt="Screenshot 2024-10-08 at 12 09 16 AM" src="https://github.com/user-attachments/assets/586c5e37-5c29-46c5-bcaa-8af5f5499272">
+
+
+https://github.com/user-attachments/assets/63a5ebd6-ef34-45cf-bf49-3faf56ad7448
+
+
 
 
 **1. Introduction**
